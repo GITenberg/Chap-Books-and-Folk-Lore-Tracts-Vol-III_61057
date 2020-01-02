@@ -1,5 +1,8 @@
 _repo: Chap-Books-and-Folk-Lore-Tracts-Vol-III_61057
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61057-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24927
     wikipedia: https://en.wikipedia.org/wiki/Laurence_Gomme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61057#Chap-Books-and-Folk-Lore-Tracts-Vol-III
 gutenberg_issued: '2019-12-30'
 gutenberg_type: Text
 identifiers:
